@@ -245,6 +245,11 @@ padding:3% 2%;
         position: static;
         transform: rotate(0);
     }
-      
+      @media (min-width:992px) and  (max-width:1400px){
+        .title-image{
+            width:300px;
+            margin-left:190px;
+        }
+    } 
 
 }
